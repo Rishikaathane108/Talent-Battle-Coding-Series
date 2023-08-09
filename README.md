@@ -20,7 +20,7 @@ The **Talent Battle Coding Series** is tailored for C++ enthusiasts, offering a 
 
 ## 🧩 Challenges
 
-Discover the [`challenges`](challenges) directory, which houses the daily coding challenges. Each challenge is accompanied by a detailed description, input-output examples, and additional insights.
+Discover the [`Challenges`](Challenges) directory, which houses the daily coding challenges. Each challenge is accompanied by a detailed description, input-output examples, and additional insights.
 
 ## 🤝 Contributing
 
