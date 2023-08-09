@@ -36,10 +36,6 @@ Contributions are highly valued! To contribute a new coding question or report a
 
 5. Open a pull request to share your contribution.
 
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
-Embark on this C++ coding journey with us and excel in your technical interviews! If you have questions or need assistance, don't hesitate to reach out at your@email.com.
+Embark on this C++ coding journey with us and excel in your technical interviews! If you have questions or need assistance, don't hesitate to reach out at rishikaathane108@email.com.
