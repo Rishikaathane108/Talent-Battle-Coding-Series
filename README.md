@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" alt="Talent Battle Coding Series" width="600px">
+  <img src="Get Set.gif" alt="Talent Battle Coding Series" width="600px">
 </div>
 
 # Talent Battle Coding Series (C++ Edition)
