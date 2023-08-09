@@ -14,7 +14,7 @@ The **Talent Battle Coding Series** is tailored for C++ enthusiasts, offering a 
 
 1. **Fork & Clone**: Begin by forking this repository and cloning it to your local machine.
 
-2. **Solve & Learn**: Explore the [`challenges`](challenges) directory. Solve the daily coding challenges using the C++ programming language.
+2. **Solve & Learn**: Explore the [`Challenges`](Challenges) directory. Solve the daily coding challenges using the C++ programming language.
 
 3. **Share & Collaborate**: Once you've solved a challenge, create a new branch, push your solution, and open a pull request. Engage in discussions, learn from others, and showcase your C++ prowess.
 
