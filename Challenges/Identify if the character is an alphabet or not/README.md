@@ -1,7 +1,5 @@
 # Identify if the character is an alphabet or not
 
-![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
-
 ## Problem Statement
 
 Develop a simple program that takes a character as input and determines whether the given character is an alphabet letter or not. The program should provide immediate feedback to the user, indicating whether the character is part of the alphabet.
