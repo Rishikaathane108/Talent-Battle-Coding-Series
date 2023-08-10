@@ -1,4 +1,4 @@
-# Character Alphabet Identifier Program
+# Identify if the character is an alphabet or not
 
 ![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
 
