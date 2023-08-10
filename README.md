@@ -4,7 +4,7 @@
 
 # Talent Battle Coding Series (C++ Edition)
 
-Welcome to the **Talent Battle Coding Series (C++ Edition)** repository! Elevate your C++ coding skills, conquer technical interviews, and prepare for placements with our daily coding challenges sourced from [Talent Battle](https://talentbattle.in/).
+Welcome to the **Talent Battle Coding Series (C++ Edition)** repository! Elevate your C++ coding skills, conquer technical interviews, and prepare for placements with our daily coding challenges sourced from [Talent Battle](https://talentbattle.in/important-coding-questions-for-placement).
 
 ## 🚀 Introduction
 
